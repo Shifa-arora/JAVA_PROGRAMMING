@@ -1,0 +1,20 @@
+Components--> 1. Base case
+              2. Recursive call
+    Call Stack--> stack(last in first out)          jo function ko store kre            store stack mein krein          temporary store krta h
+                  
+
+    */Important Question for Interiview */
+abc.java--> can run anywhere because java is independendent
+abc.class--> to rum this platform containg jvm 
+
+
+    */FIBONACCI SERIES */
+fibonacci is tree based recursion. there is 2 base case and 2 recursive call. --> makes it multi-branch recursion
+recursive call-> f(n-1) and f(n-2)
+base case -> n==0 and n==1
+
+SUBSEQUENCE is also tree based
+
+permutation of abc 
+abc-->3->3!=6
+abc, bac, cab, bca, acb, cba
