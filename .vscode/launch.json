@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CoinToss",
+            "request": "launch",
+            "mainClass": "CoinToss",
+            "projectName": "JAVA PROGRAMMING_7c77a56b"
+        },
+        {
+            "type": "java",
+            "name": "WarehouseReverse",
+            "request": "launch",
+            "mainClass": "RECURSIONpractice.WarehouseReverse",
+            "projectName": "JAVA PROGRAMMING_7c77a56b"
+        },
+        {
+            "type": "java",
+            "name": "LastIndex",
+            "request": "launch",
+            "mainClass": "RECURSIONpractice.LastIndex",
+            "projectName": "JAVA PROGRAMMING_7c77a56b"
+        },
+        {
+            "type": "java",
+            "name": "LostDocumentSearch",
+            "request": "launch",
+            "mainClass": "RECURSIONpractice.LostDocumentSearch",
+            "projectName": "JAVA PROGRAMMING_7c77a56b"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -23,7 +51,6 @@
             "hostName": "<The host name or ip address of remote debuggee>",
             "port": "<debug port of remote debuggee>"
         },
-
         {
             "type": "java",
             "name": "OfficeFilesPractice",
