@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class BoardPath {
     public static void boardPath(int curr, int end, String path) {
         if (curr==end) {
@@ -12,6 +14,8 @@ public class BoardPath {
         }
     }
     public static void main(String[] args) {
-        boardPath(0, 3, "");
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        boardPath(0, n, "");
     }
 }
