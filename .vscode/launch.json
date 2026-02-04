@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountVowels",
+            "request": "launch",
+            "mainClass": "RECURSIONpractice.CountVowels",
+            "projectName": "JAVA PROGRAMMING_7c77a56b"
+        },
+        {
+            "type": "java",
+            "name": "EmailSystem",
+            "request": "launch",
+            "mainClass": "RECURSIONpractice.EmailSystem",
+            "projectName": "JAVA PROGRAMMING_7c77a56b"
+        },
+        {
+            "type": "java",
+            "name": "TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "TowerOfHanoi",
+            "projectName": "JAVA PROGRAMMING_7c77a56b"
+        },
+        {
+            "type": "java",
+            "name": "LexicographicalCounting",
+            "request": "launch",
+            "mainClass": "LexicographicalCounting",
+            "projectName": "JAVA PROGRAMMING_7c77a56b"
+        },
+        {
+            "type": "java",
+            "name": "BoardPath",
+            "request": "launch",
+            "mainClass": "BoardPath",
+            "projectName": "JAVA PROGRAMMING_7c77a56b"
+        },
+        {
+            "type": "java",
             "name": "CoinToss",
             "request": "launch",
             "mainClass": "CoinToss",
