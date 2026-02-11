@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "RECURSION.QuickSort",
+            "projectName": "JAVA PROGRAMMING_7c77a56b"
+        },
+        {
+            "type": "java",
             "name": "CountVowels",
             "request": "launch",
             "mainClass": "RECURSIONpractice.CountVowels",
