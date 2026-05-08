@@ -6,11 +6,12 @@ public class divideError {
     }
 
     //***OR********* */
-
+    static void divide(){
     try {
         int a = 10 / 0;
     } catch (ArithmeticException e) {
         System.out.println("Cannot divide by zero");
+    }
     }
 
     public static void main(String[] args) {

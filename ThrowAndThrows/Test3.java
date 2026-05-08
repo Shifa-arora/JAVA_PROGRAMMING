@@ -1,9 +1,9 @@
 package ThrowAndThrows;
 
-public import java.io.*;
+import java.io.*;
 
-class Test3 {
-    static void readFile() Exception {
+public class Test3 {
+    static void readFile() IOException {
         FileReader fr = new FileReader("abc.txt");
     }
 

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArithmeticDivide",
+            "request": "launch",
+            "mainClass": "ThrowAndThrows.ArithmeticDivide",
+            "projectName": "JAVA PROGRAMMING_7c77a56b"
+        },
+        {
+            "type": "java",
             "name": "BitWiseAndOrXor",
             "request": "launch",
             "mainClass": "Bit_Manipulation.BitWiseAndOrXor",
